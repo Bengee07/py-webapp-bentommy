@@ -23,5 +23,3 @@ docker run -dp8080:80 -e APP_PORT=80 --rm <image_url>
 
 contributor N
 
-
-Contributor B
